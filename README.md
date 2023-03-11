@@ -1,2 +1,2 @@
 # cssBayan
-This is a simple accordeon using html anc css
+This is a simple accordeon using html and css
